@@ -173,3 +173,4 @@ Consumer (port 8001):
 - Kafka topic is auto-created by producer startup logic if missing.
 - Current topic name is fastapi-topic.
 - Broker endpoint used by services is localhost:9092.
+- https://www.youtube.com/watch?v=K4jjF8uWUmg
